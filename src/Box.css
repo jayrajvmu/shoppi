@@ -1,0 +1,24 @@
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.box .left button{
+
+margin: 10px;
+background-color: #4c81af; /* Green */
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: block;
+font-size: 16px;
+}
+
+.right .code{
+    width: 350px;
+    background: #ffff;
+}

@@ -1,0 +1,7 @@
+.main{
+
+    background: url('./logo.svg') no-repeat center center fixed;
+    height: 100vh;
+    
+    background-color: black;
+}
